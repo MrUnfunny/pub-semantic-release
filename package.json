@@ -1,14 +1,26 @@
 {
   "name": "pub-semantic-release",
-  "version": "0.0.2",
+  "version": "0.0.8",
   "description": "Semantic Release plugin for pub.dev packages",
   "main": "index.js",
+  "repository": "https://github.com/MrUnfunny/pub-semantic-release",
+  "author": "MrUnfunny",
+  "license": "MIT",
+  "private": false,
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "semantic-release": "^17.1.1"
-  }
+  },
+  "keywords": [
+    "pub",
+    "dart",
+    "dart package",
+    "flutter",
+    "flutter package",
+    "semantic-release",
+    "publish"
+  ]
 }
