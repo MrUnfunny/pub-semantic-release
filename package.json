@@ -1,0 +1,14 @@
+{
+  "name": "pub-semantic-release",
+  "version": "0.0.1",
+  "description": "Semantic Release plugin for pub.dev packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-release": "^17.1.1"
+  }
+}
