@@ -1,6 +1,6 @@
 {
   "name": "pub-semantic-release",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Semantic Release plugin for pub.dev packages",
   "main": "index.js",
   "scripts": {
